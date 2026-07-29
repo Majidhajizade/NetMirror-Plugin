@@ -1,7 +1,9 @@
 {
-  "name": "NetMirror",
+  "name": "Netflix",
+  "description": "Selected Nuvio providers",
   "version": "1.0.0",
-  "scrapers": [
+  "author": "Majid",
+  "providers": [
     {
       "id": "netmirror",
       "name": "NetMirror",
@@ -31,7 +33,7 @@
     {
       "id": "persianstremio",
       "name": "🌸 PersianStremio",
-      "description": "Persian Stremio plugin for movies, series,and Persian media content in Iranian & English.",
+      "description": "Persian Stremio plugin for movies, series and Persian media content.",
       "version": "1.4.0",
       "author": "Nuvio Team",
       "supportedTypes": [
