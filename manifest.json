@@ -3,6 +3,7 @@
   "description": "NetMirror Provider",
   "version": "1.0.0",
   "author": "Majid",
+  "scrapers": [],
   "providers": [
     {
       "id": "netmirror",
